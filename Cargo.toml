@@ -1,0 +1,13 @@
+[package]
+name = "halfpixelstudios"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+authors = ["MrPicklePinosaur"]
+description = "webpage for halfpixelstudios"
+repository = "https://github.com/HalfPixelStudios/halfpixelstudios.com"
+
+[features]
+
+[dependencies]
+yew = "0.19"
